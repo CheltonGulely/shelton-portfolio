@@ -1,0 +1,90 @@
+
+    <!-----------CLIENT------------------>
+    <section id="client">
+        <!-----------HEADING--------------->
+        <div class="client-heading">
+            <span>Comments</span>
+            <h3>Some of my Projects</h3>
+        </div>
+        <!----CLIENT BOX CONTAINER -------->
+        <div class="c-box-container">
+            <!--=---BOX 1--------->
+            <div class="client-box">
+                <!----IMG-------->
+                <img src="images/client-1.png" alt="">
+                <!--STAR /REVIEW -->
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <!----DETAI/COMMENT--------->
+                <P>If you're looking for a random paragraphs, you've come
+                    to the right place. When a random word or a random sentence
+                    isn't quite enough, the next logical step is to
+                    find a random paragraph.aaaa
+                    find a random paragraph.aaaaaaaaaaaaa
+                    find a random paragraph.aaaaaaaaaaaaaaaaaaaaaa
+                    find a random paragraph.aaaaaaaaaaaaa
+                    find a random paragraph.aaaaaaaaaaaaa
+                    find a random paragraph.aaaaaa
+                    find a random paragraph.aaaaaaaaaaaaa
+                    find a random paragraph.aaaaaaaaaaaaaaaaaaaa
+                </P>
+            </div>
+            <!--=---BOX 2--------->
+            <div class="client-box">
+                <!----IMG-------->
+                <img src="images/client-2.png" alt="">
+                <!--STAR /REVIEW -->
+                <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <!----DETAI/COMMENT--------->
+                <P>If you're looking for a random paragraphs, you've come
+                    to the right place. When a random word or a random sentence
+                    isn't quite enough, the next logical step is to
+                    find a random paragraph.aaaa
+                    find a random paragraph.aaaaaaaaaaaaa
+                    find a random paragraph.aaaaaaaaaaaaaaaaaaaaaa
+                    find a random paragraph.aaaaaaaaaaaaa
+                    find a random paragraph.aaaaaaaaaaaaa
+                    find a random paragraph.aaaaaa
+                    find a random paragraph.aaaaaaaaaaaaa
+                    find a random paragraph.aaaaaaaaaaaaaaaaaaaa
+                </P>
+            </div>
+        </div>
+        <!--=---BOX 3--------->
+        <div class="client-box">
+            <!----IMG-------->
+            <img src="images/client-3.png" alt="">
+            <!--STAR /REVIEW -->
+            <div class="star">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <!----DETAI/COMMENT--------->
+            <P>If you're looking for a random paragraphs, you've come
+                to the right place. When a random word or a random sentence
+                isn't quite enough, the next logical step is to
+                find a random paragraph.aaaa
+                find a random paragraph.aaaaaaaaaaaaa
+                find a random paragraph.aaaaaaaaaaaaaaaaaaaaaa
+                find a random paragraph.aaaaaaaaaaaaa
+                find a random paragraph.aaaaaaaaaaaaa
+                find a random paragraph.aaaaaa
+                find a random paragraph.aaaaaaaaaaaaa
+                find a random paragraph.aaaaaaaaaaaaaaaaaaaa
+            </P>
+        </div>
+    </section>
